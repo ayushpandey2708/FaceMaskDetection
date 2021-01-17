@@ -47,7 +47,7 @@ Put the number of iterations on the x-axis and the value of the cost-function on
 This helps to spot how appropriate our learning rate is. 
 the image illustrates the difference between good and bad learning rates.
 
-https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/gradient-descent-plot.png
+![alt text](https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/gradient-descent-plot.png)
 
 
 ## Learning Rate
@@ -59,7 +59,7 @@ which is neither too low nor too high. This is important because if the steps it
 it may not reach the local minimum because it bounces back and forth between the convex function of gradient descent.
 If we set the learning rate to a very small value, gradient descent will eventually reach the local minimum but that may take a while. 
 
-https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/gradient-descent-learning-rate.png
+![alt text](https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/gradient-descent-learning-rate.png)
 
 
 
